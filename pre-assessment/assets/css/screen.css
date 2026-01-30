@@ -19,11 +19,14 @@ body {
 	border: 1px solid #CCC;
 }
 #header {
+	background-image: url(/pre-assessment/assets/img/background.jpg);
+	background-size: cover;
+	background-position: center;
 }
 #header h1 a {
 }
 #nav {
-	background-color: #000;
+	background-color: #171717;
 }
 #nav ul {
 	list-style-type: none;
@@ -60,7 +63,7 @@ body {
 	margin-bottom: 15px;
 }
 #footer {
-	background-color: #000;
+	background-color: #171717;
 	color: #FFF;
 	height: 25px;
 }
