@@ -1,7 +1,7 @@
 * {
 	margin: 0px;
 	padding: 0px;
-}
+} /* sets the default margin and padding for all elements */
 body {
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
